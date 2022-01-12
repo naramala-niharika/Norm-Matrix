@@ -20,6 +20,7 @@ Developed by:N.Niharika
 RegisterNumber:21500912
 
 '''
+
 import numpy as np
 
 mat = np.array(eval(input()))
@@ -31,7 +32,7 @@ norm_of_matrix = "{:.2f}".format(ans)
 print(norm_of_matix)
 
 ## Output:
-![Output]()
+![Output](https://github.com/naramala-niharika/Norm-Matrix/blob/main/Screenshot%20(60).png?raw=true)
 ## Sample Input and Output:
 ![norm1](./input.jpg)
 
